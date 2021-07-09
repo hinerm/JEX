@@ -79,8 +79,8 @@
 		<url>https://github.com/jaywarrick/JEX/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Travis CI</system>
-		<url>https://travis-ci.org/jaywarrick/JEX</url>
+		<system>GitHub Actions</system>
+		<url>https://github.com/jaywarrick/JEX/actions</url>
 	</ciManagement>
 
 	<properties>
