@@ -1,3 +1,5 @@
+[![](https://github.com/jaywarrick/JEX/actions/workflows/build-main.yml/badge.svg)](https://github.com/jaywarrick/JEX/actions/workflows/build-main.yml)
+
 JEX
 ===
 
